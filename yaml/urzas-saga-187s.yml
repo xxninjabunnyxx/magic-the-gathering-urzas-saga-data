@@ -1,0 +1,107 @@
+---
+object: card
+id: c5e32a3d-c477-419a-97c2-851974c6b89e
+oracle_id: c23543b7-f637-4a7c-9b72-ec411cd5488e
+multiverse_ids: []
+tcgplayer_id: 6873
+name: Fire Ants
+lang: zhs
+released_at: '1998-10-12'
+uri: https://api.scryfall.com/cards/c5e32a3d-c477-419a-97c2-851974c6b89e
+scryfall_uri: https://scryfall.com/card/usg/187s/zhs/fire-ants?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/5/c5e32a3d-c477-419a-97c2-851974c6b89e.jpg?1664653175
+  normal: https://cards.scryfall.io/normal/front/c/5/c5e32a3d-c477-419a-97c2-851974c6b89e.jpg?1664653175
+  large: https://cards.scryfall.io/large/front/c/5/c5e32a3d-c477-419a-97c2-851974c6b89e.jpg?1664653175
+  png: https://cards.scryfall.io/png/front/c/5/c5e32a3d-c477-419a-97c2-851974c6b89e.png?1664653175
+  art_crop: https://cards.scryfall.io/art_crop/front/c/5/c5e32a3d-c477-419a-97c2-851974c6b89e.jpg?1664653175
+  border_crop: https://cards.scryfall.io/border_crop/front/c/5/c5e32a3d-c477-419a-97c2-851974c6b89e.jpg?1664653175
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Insect
+oracle_text: "{T}: Fire Ants deals 1 damage to each other creature without flying."
+power: '2'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c330df40-51db-4caf-bde6-48df6c181001
+set: usg
+set_name: Urza's Saga
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c330df40-51db-4caf-bde6-48df6c181001
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/usg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c5e32a3d-c477-419a-97c2-851974c6b89e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac23543b7-f637-4a7c-9b72-ec411cd5488e&unique=prints
+collector_number: 187s
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tom Fleming
+artist_ids:
+- e220996f-9956-4049-9485-8599b61ce8a9
+illustration_id: 7ce2e102-b56a-492d-8e37-b80c1ca63f3a
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- schinesealtart
+edhrec_rank: 14019
+prices:
+  usd: '0.30'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fire+Ants&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fire+Ants&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fire+Ants
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6873?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fire+Ants&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fire+Ants&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

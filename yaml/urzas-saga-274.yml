@@ -1,0 +1,113 @@
+---
+object: card
+id: 20cfc00e-180c-4277-8911-43afa691b9d7
+oracle_id: a08189f2-1643-496a-8a91-74864528b4db
+multiverse_ids:
+- 10409
+mtgo_id: 11935
+mtgo_foil_id: 11936
+tcgplayer_id: 7053
+cardmarket_id: 10481
+name: Spreading Algae
+lang: en
+released_at: '1998-10-12'
+uri: https://api.scryfall.com/cards/20cfc00e-180c-4277-8911-43afa691b9d7
+scryfall_uri: https://scryfall.com/card/usg/274/spreading-algae?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/0/20cfc00e-180c-4277-8911-43afa691b9d7.jpg?1562901889
+  normal: https://cards.scryfall.io/normal/front/2/0/20cfc00e-180c-4277-8911-43afa691b9d7.jpg?1562901889
+  large: https://cards.scryfall.io/large/front/2/0/20cfc00e-180c-4277-8911-43afa691b9d7.jpg?1562901889
+  png: https://cards.scryfall.io/png/front/2/0/20cfc00e-180c-4277-8911-43afa691b9d7.png?1562901889
+  art_crop: https://cards.scryfall.io/art_crop/front/2/0/20cfc00e-180c-4277-8911-43afa691b9d7.jpg?1562901889
+  border_crop: https://cards.scryfall.io/border_crop/front/2/0/20cfc00e-180c-4277-8911-43afa691b9d7.jpg?1562901889
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant Swamp
+  When enchanted land becomes tapped, destroy it.
+  When Spreading Algae is put into a graveyard from the battlefield, return Spreading Algae to its owner's hand.
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c330df40-51db-4caf-bde6-48df6c181001
+set: usg
+set_name: Urza's Saga
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c330df40-51db-4caf-bde6-48df6c181001
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/usg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/20cfc00e-180c-4277-8911-43afa691b9d7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa08189f2-1643-496a-8a91-74864528b4db&unique=prints
+collector_number: '274'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Stephen Daniele
+artist_ids:
+- a267f9bb-072b-410a-a704-50f4d19020d8
+illustration_id: 0c6c367a-2867-4256-a87f-ddcab96d515d
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15305
+penny_rank: 8496
+prices:
+  usd: '0.36'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.35'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10409
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spreading+Algae&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spreading+Algae&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spreading+Algae
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/7053?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spreading+Algae&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/11935?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

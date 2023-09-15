@@ -1,0 +1,21 @@
+---
+object: set
+id: c330df40-51db-4caf-bde6-48df6c181001
+code: usg
+mtgo_code: uz
+arena_code: uz
+tcgplayer_id: 118
+name: Urza's Saga
+uri: https://api.scryfall.com/sets/c330df40-51db-4caf-bde6-48df6c181001
+scryfall_uri: https://scryfall.com/sets/usg
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ausg&unique=prints
+released_at: '1998-10-12'
+set_type: expansion
+card_count: 356
+printed_size: 350
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: usg
+block: Urza
+icon_svg_uri: https://svgs.scryfall.io/sets/usg.svg?1694404800

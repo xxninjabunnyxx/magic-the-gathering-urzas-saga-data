@@ -1,0 +1,122 @@
+---
+object: card
+id: e9813857-5527-4499-af86-758a5971e21a
+oracle_id: 25cb5c86-83cd-4a06-b0d1-a0f6fc9158a6
+multiverse_ids:
+- 8818
+mtgo_id: 11915
+mtgo_foil_id: 11916
+tcgplayer_id: 6891
+cardmarket_id: 10399
+name: Goblin Offensive
+lang: en
+released_at: '1998-10-12'
+uri: https://api.scryfall.com/cards/e9813857-5527-4499-af86-758a5971e21a
+scryfall_uri: https://scryfall.com/card/usg/192/goblin-offensive?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/9/e9813857-5527-4499-af86-758a5971e21a.jpg?1562944229
+  normal: https://cards.scryfall.io/normal/front/e/9/e9813857-5527-4499-af86-758a5971e21a.jpg?1562944229
+  large: https://cards.scryfall.io/large/front/e/9/e9813857-5527-4499-af86-758a5971e21a.jpg?1562944229
+  png: https://cards.scryfall.io/png/front/e/9/e9813857-5527-4499-af86-758a5971e21a.png?1562944229
+  art_crop: https://cards.scryfall.io/art_crop/front/e/9/e9813857-5527-4499-af86-758a5971e21a.jpg?1562944229
+  border_crop: https://cards.scryfall.io/border_crop/front/e/9/e9813857-5527-4499-af86-758a5971e21a.jpg?1562944229
+mana_cost: "{X}{1}{R}{R}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Create X 1/1 red Goblin creature tokens.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+all_parts:
+- object: related_card
+  id: e9813857-5527-4499-af86-758a5971e21a
+  component: combo_piece
+  name: Goblin Offensive
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/e9813857-5527-4499-af86-758a5971e21a
+- object: related_card
+  id: 419c1799-1525-44ec-9f6c-dfc290f04ba7
+  component: token
+  name: Goblin
+  type_line: Token Creature — Goblin
+  uri: https://api.scryfall.com/cards/419c1799-1525-44ec-9f6c-dfc290f04ba7
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c330df40-51db-4caf-bde6-48df6c181001
+set: usg
+set_name: Urza's Saga
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c330df40-51db-4caf-bde6-48df6c181001
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/usg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e9813857-5527-4499-af86-758a5971e21a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A25cb5c86-83cd-4a06-b0d1-a0f6fc9158a6&unique=prints
+collector_number: '192'
+digital: false
+rarity: uncommon
+flavor_text: They certainly are.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 6deabe31-9d58-437f-9501-3245ace8e248
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7220
+prices:
+  usd: '3.96'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.25'
+  eur_foil: 
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=8818
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Offensive&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Offensive&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Goblin+Offensive
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6891?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Offensive&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/11915?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

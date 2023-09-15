@@ -1,0 +1,116 @@
+---
+object: card
+id: 4951863f-1c16-4d09-ba9a-f57dc3d81a20
+oracle_id: 0bd67481-6bd9-48d6-92bd-8933b5ea1eae
+multiverse_ids:
+- 5671
+mtgo_id: 11967
+mtgo_foil_id: 11968
+tcgplayer_id: 6970
+cardmarket_id: 10295
+name: Peregrine Drake
+lang: en
+released_at: '1998-10-12'
+uri: https://api.scryfall.com/cards/4951863f-1c16-4d09-ba9a-f57dc3d81a20
+scryfall_uri: https://scryfall.com/card/usg/88/peregrine-drake?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/9/4951863f-1c16-4d09-ba9a-f57dc3d81a20.jpg?1562910289
+  normal: https://cards.scryfall.io/normal/front/4/9/4951863f-1c16-4d09-ba9a-f57dc3d81a20.jpg?1562910289
+  large: https://cards.scryfall.io/large/front/4/9/4951863f-1c16-4d09-ba9a-f57dc3d81a20.jpg?1562910289
+  png: https://cards.scryfall.io/png/front/4/9/4951863f-1c16-4d09-ba9a-f57dc3d81a20.png?1562910289
+  art_crop: https://cards.scryfall.io/art_crop/front/4/9/4951863f-1c16-4d09-ba9a-f57dc3d81a20.jpg?1562910289
+  border_crop: https://cards.scryfall.io/border_crop/front/4/9/4951863f-1c16-4d09-ba9a-f57dc3d81a20.jpg?1562910289
+mana_cost: "{4}{U}"
+cmc: 5.0
+type_line: Creature — Drake
+oracle_text: |-
+  Flying
+  When Peregrine Drake enters the battlefield, untap up to five lands.
+power: '2'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: banned
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c330df40-51db-4caf-bde6-48df6c181001
+set: usg
+set_name: Urza's Saga
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c330df40-51db-4caf-bde6-48df6c181001
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/usg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4951863f-1c16-4d09-ba9a-f57dc3d81a20/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0bd67481-6bd9-48d6-92bd-8933b5ea1eae&unique=prints
+collector_number: '88'
+digital: false
+rarity: uncommon
+flavor_text: That the Tolarian mists parted for the drakes was warning enough to stay
+  away.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Bob Eggleton
+artist_ids:
+- fc0fb0e9-aa30-4143-a43e-d20b4aa9d8ed
+illustration_id: d7af8375-a987-4043-b00f-2055c96fb0e0
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 733
+penny_rank: 961
+prices:
+  usd: '0.90'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.95'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5671
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Peregrine+Drake&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Peregrine+Drake&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Peregrine+Drake
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6970?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Peregrine+Drake&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/11967?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

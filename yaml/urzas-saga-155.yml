@@ -1,0 +1,116 @@
+---
+object: card
+id: 5c33fbb0-f49d-4b4d-804d-84b03e0daf4d
+oracle_id: d86cc093-5db9-437a-a5bd-77d6faf97ca0
+multiverse_ids:
+- 5627
+mtgo_id: 12419
+mtgo_foil_id: 12420
+tcgplayer_id: 7020
+cardmarket_id: 10362
+name: Sanguine Guard
+lang: en
+released_at: '1998-10-12'
+uri: https://api.scryfall.com/cards/5c33fbb0-f49d-4b4d-804d-84b03e0daf4d
+scryfall_uri: https://scryfall.com/card/usg/155/sanguine-guard?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/c/5c33fbb0-f49d-4b4d-804d-84b03e0daf4d.jpg?1562914269
+  normal: https://cards.scryfall.io/normal/front/5/c/5c33fbb0-f49d-4b4d-804d-84b03e0daf4d.jpg?1562914269
+  large: https://cards.scryfall.io/large/front/5/c/5c33fbb0-f49d-4b4d-804d-84b03e0daf4d.jpg?1562914269
+  png: https://cards.scryfall.io/png/front/5/c/5c33fbb0-f49d-4b4d-804d-84b03e0daf4d.png?1562914269
+  art_crop: https://cards.scryfall.io/art_crop/front/5/c/5c33fbb0-f49d-4b4d-804d-84b03e0daf4d.jpg?1562914269
+  border_crop: https://cards.scryfall.io/border_crop/front/5/c/5c33fbb0-f49d-4b4d-804d-84b03e0daf4d.jpg?1562914269
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Creature — Phyrexian Zombie Knight
+oracle_text: |-
+  First strike
+  {1}{B}: Regenerate Sanguine Guard.
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- First strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c330df40-51db-4caf-bde6-48df6c181001
+set: usg
+set_name: Urza's Saga
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c330df40-51db-4caf-bde6-48df6c181001
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/usg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5c33fbb0-f49d-4b4d-804d-84b03e0daf4d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad86cc093-5db9-437a-a5bd-77d6faf97ca0&unique=prints
+collector_number: '155'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Father of Machines! Your filigree gaze carves us, and the scars dance upon our grateful flesh."
+  —*Phyrexian Scriptures*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: de921048-4602-4a56-bb05-0c8feeb3fa3c
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21845
+prices:
+  usd: '0.22'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.49'
+  eur_foil: 
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5627
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sanguine+Guard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sanguine+Guard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sanguine+Guard
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/7020?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sanguine+Guard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/12419?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

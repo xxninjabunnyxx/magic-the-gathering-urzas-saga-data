@@ -1,0 +1,107 @@
+---
+object: card
+id: c20a4bce-15db-43a7-9514-5e657b618aac
+oracle_id: d03fd358-ff3f-45ab-9601-07dbb535cb51
+multiverse_ids: []
+tcgplayer_id: 6952
+name: No Rest for the Wicked
+lang: zhs
+released_at: '1998-10-12'
+uri: https://api.scryfall.com/cards/c20a4bce-15db-43a7-9514-5e657b618aac
+scryfall_uri: https://scryfall.com/card/usg/142s/zhs/no-rest-for-the-wicked?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/2/c20a4bce-15db-43a7-9514-5e657b618aac.jpg?1664653187
+  normal: https://cards.scryfall.io/normal/front/c/2/c20a4bce-15db-43a7-9514-5e657b618aac.jpg?1664653187
+  large: https://cards.scryfall.io/large/front/c/2/c20a4bce-15db-43a7-9514-5e657b618aac.jpg?1664653187
+  png: https://cards.scryfall.io/png/front/c/2/c20a4bce-15db-43a7-9514-5e657b618aac.png?1664653187
+  art_crop: https://cards.scryfall.io/art_crop/front/c/2/c20a4bce-15db-43a7-9514-5e657b618aac.jpg?1664653187
+  border_crop: https://cards.scryfall.io/border_crop/front/c/2/c20a4bce-15db-43a7-9514-5e657b618aac.jpg?1664653187
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: 'Sacrifice No Rest for the Wicked: Return to your hand all creature cards
+  in your graveyard that were put there from the battlefield this turn.'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c330df40-51db-4caf-bde6-48df6c181001
+set: usg
+set_name: Urza's Saga
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c330df40-51db-4caf-bde6-48df6c181001
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/usg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c20a4bce-15db-43a7-9514-5e657b618aac/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad03fd358-ff3f-45ab-9601-07dbb535cb51&unique=prints
+collector_number: 142s
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 22a3b269-5466-43db-89fd-00880be86b5c
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- schinesealtart
+edhrec_rank: 9724
+penny_rank: 9461
+prices:
+  usd: '0.66'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=No+Rest+for+the+Wicked&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=No+Rest+for+the+Wicked&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=No+Rest+for+the+Wicked
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6952?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=No+Rest+for+the+Wicked&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=No+Rest+for+the+Wicked&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

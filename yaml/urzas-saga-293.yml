@@ -1,0 +1,107 @@
+---
+object: card
+id: ff72806a-ae41-44f5-ad74-56c3338ebfcb
+oracle_id: b751c1c6-195d-4023-9d0b-3c91d6b834d4
+multiverse_ids:
+- 8870
+mtgo_id: 12313
+mtgo_foil_id: 12314
+tcgplayer_id: 6849
+cardmarket_id: 10500
+name: Dragon Blood
+lang: en
+released_at: '1998-10-12'
+uri: https://api.scryfall.com/cards/ff72806a-ae41-44f5-ad74-56c3338ebfcb
+scryfall_uri: https://scryfall.com/card/usg/293/dragon-blood?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/f/ff72806a-ae41-44f5-ad74-56c3338ebfcb.jpg?1562949097
+  normal: https://cards.scryfall.io/normal/front/f/f/ff72806a-ae41-44f5-ad74-56c3338ebfcb.jpg?1562949097
+  large: https://cards.scryfall.io/large/front/f/f/ff72806a-ae41-44f5-ad74-56c3338ebfcb.jpg?1562949097
+  png: https://cards.scryfall.io/png/front/f/f/ff72806a-ae41-44f5-ad74-56c3338ebfcb.png?1562949097
+  art_crop: https://cards.scryfall.io/art_crop/front/f/f/ff72806a-ae41-44f5-ad74-56c3338ebfcb.jpg?1562949097
+  border_crop: https://cards.scryfall.io/border_crop/front/f/f/ff72806a-ae41-44f5-ad74-56c3338ebfcb.jpg?1562949097
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: "{3}, {T}: Put a +1/+1 counter on target creature."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c330df40-51db-4caf-bde6-48df6c181001
+set: usg
+set_name: Urza's Saga
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c330df40-51db-4caf-bde6-48df6c181001
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/usg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ff72806a-ae41-44f5-ad74-56c3338ebfcb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab751c1c6-195d-4023-9d0b-3c91d6b834d4&unique=prints
+collector_number: '293'
+digital: false
+rarity: uncommon
+flavor_text: Fire in the blood, fire in the belly.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Simanson
+artist_ids:
+- 13f79e83-d576-4017-93b5-54c47313ed88
+illustration_id: a398a9ab-a36c-4a1e-88a6-3b0895aa2274
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15459
+prices:
+  usd: '0.21'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=8870
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dragon+Blood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dragon+Blood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dragon+Blood
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6849?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragon+Blood&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/12313?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
